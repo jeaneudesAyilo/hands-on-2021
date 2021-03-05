@@ -3,6 +3,6 @@
 
 ## Different project are considered
 
- projet 1
+ - projet 1
  
- projet 2
+ - projet 2
